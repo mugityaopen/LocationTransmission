@@ -1,2 +1,2 @@
-https://mugityaopen.github.io/eee/
-https://mugityaopen.github.io/eee/LocationTransmission
+https://mugityaopen.github.io/eee
+https://mugityaopen.github.io/LocationTransmission

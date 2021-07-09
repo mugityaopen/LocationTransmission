@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1625823144952,
+  "timestamp": 1625826502536,
   "index": "/LocationTransmission/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/LocationTransmission/favicon.ico",
         "/LocationTransmission/index.html",
-        "/LocationTransmission/main.fd15bafa59c38fa3e609.js",
+        "/LocationTransmission/main.813cfb3bb9bfc2559822.js",
         "/LocationTransmission/manifest.webmanifest",
         "/LocationTransmission/polyfills.98e298f0f2b8e2646bce.js",
         "/LocationTransmission/runtime.24d74129d9aa50629ccd.js",
@@ -52,8 +52,8 @@
     "/LocationTransmission/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/LocationTransmission/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/LocationTransmission/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/LocationTransmission/index.html": "9e1f403e185fad694458e122b3ec7e61b57344db",
-    "/LocationTransmission/main.fd15bafa59c38fa3e609.js": "ab6bb9069fac6572b1a5f95faef9d6c034dcbf71",
+    "/LocationTransmission/index.html": "199e64fa8dfdf03ecfbc6b8c361ec2ad69e0fa7a",
+    "/LocationTransmission/main.813cfb3bb9bfc2559822.js": "d2462f06d160e677b8f4cb905089468d8258de9f",
     "/LocationTransmission/manifest.webmanifest": "2cb9395ec5b12ee924ac50b06a3050df79ecc509",
     "/LocationTransmission/polyfills.98e298f0f2b8e2646bce.js": "ba0de278e37510122ae2db8136780b46b4f5de1c",
     "/LocationTransmission/runtime.24d74129d9aa50629ccd.js": "45ae2e960c00df85972fca8413e4cd70537331f7",

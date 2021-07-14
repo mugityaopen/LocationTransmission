@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1626190726585,
+  "timestamp": 1626258919179,
   "index": "/LocationTransmission/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/LocationTransmission/favicon.ico",
         "/LocationTransmission/index.html",
-        "/LocationTransmission/main.4ff6ad7ca2f817df26ea.js",
+        "/LocationTransmission/main.c0527a527dee5cfd720a.js",
         "/LocationTransmission/manifest.webmanifest",
         "/LocationTransmission/polyfills.98e298f0f2b8e2646bce.js",
         "/LocationTransmission/runtime.24d74129d9aa50629ccd.js",
@@ -36,7 +36,14 @@
         "/LocationTransmission/assets/icons/icon-384x384.png",
         "/LocationTransmission/assets/icons/icon-512x512.png",
         "/LocationTransmission/assets/icons/icon-72x72.png",
-        "/LocationTransmission/assets/icons/icon-96x96.png"
+        "/LocationTransmission/assets/icons/icon-96x96.png",
+        "/LocationTransmission/assets/imgs/destination_custom_pin.svg",
+        "/LocationTransmission/assets/imgs/oval.svg",
+        "/LocationTransmission/assets/imgs/three-dots.svg",
+        "/LocationTransmission/assets/imgs/truck_loader.svg",
+        "/LocationTransmission/assets/imgs/truck_pin.svg",
+        "/LocationTransmission/assets/imgs/youps_loader.svg",
+        "/LocationTransmission/assets/imgs/youpslogo.svg"
       ],
       "patterns": []
     }
@@ -51,9 +58,16 @@
     "/LocationTransmission/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/LocationTransmission/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/LocationTransmission/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/LocationTransmission/assets/imgs/destination_custom_pin.svg": "de8803900562ccd78cfb3324d8f588a1d420ac34",
+    "/LocationTransmission/assets/imgs/oval.svg": "bf71c65eaf348b40964ce9aaf0e384d4653c1252",
+    "/LocationTransmission/assets/imgs/three-dots.svg": "b638e975a151ce064cd63d5e155228a280ca6f84",
+    "/LocationTransmission/assets/imgs/truck_loader.svg": "b40633e869be718779c1be1c5efeadea26cfc534",
+    "/LocationTransmission/assets/imgs/truck_pin.svg": "4666728664443dfa5fde2cf0258d84b30591d117",
+    "/LocationTransmission/assets/imgs/youps_loader.svg": "348b0f87b74e3e3566345b1431ccd118cb3bddaa",
+    "/LocationTransmission/assets/imgs/youpslogo.svg": "d663942273682e147952b7eae3e71a748246bfee",
     "/LocationTransmission/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/LocationTransmission/index.html": "c0510ad5ff73f498595d19b7e6fc5e4a1fe2a99f",
-    "/LocationTransmission/main.4ff6ad7ca2f817df26ea.js": "4808d057015a06280fef2c8469ab3c205baf81f7",
+    "/LocationTransmission/index.html": "f418bd71380a2230620a06489291c4742f805b79",
+    "/LocationTransmission/main.c0527a527dee5cfd720a.js": "2c9082c819b06ef7ab2e2ee25047954646300a37",
     "/LocationTransmission/manifest.webmanifest": "2cb9395ec5b12ee924ac50b06a3050df79ecc509",
     "/LocationTransmission/polyfills.98e298f0f2b8e2646bce.js": "ba0de278e37510122ae2db8136780b46b4f5de1c",
     "/LocationTransmission/runtime.24d74129d9aa50629ccd.js": "45ae2e960c00df85972fca8413e4cd70537331f7",

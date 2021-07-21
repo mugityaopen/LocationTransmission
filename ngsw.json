@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1626738835648,
+  "timestamp": 1626911115795,
   "index": "/LocationTransmission/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/LocationTransmission/favicon.ico",
         "/LocationTransmission/index.html",
-        "/LocationTransmission/main.52ad5041c25454a9fe23.js",
+        "/LocationTransmission/main.91e19c906fc0230ab498.js",
         "/LocationTransmission/manifest.webmanifest",
         "/LocationTransmission/polyfills.98e298f0f2b8e2646bce.js",
         "/LocationTransmission/runtime.5807b7940d1ba9d94d17.js",
@@ -29,6 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/LocationTransmission/assets/db/coffee.json",
         "/LocationTransmission/assets/icons/icon-128x128.png",
         "/LocationTransmission/assets/icons/icon-144x144.png",
         "/LocationTransmission/assets/icons/icon-152x152.png",
@@ -53,6 +54,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/LocationTransmission/assets/db/coffee.json": "f093d3af3bbe14c2732f2660a6a164258d5ea22e",
     "/LocationTransmission/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/LocationTransmission/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/LocationTransmission/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -69,10 +71,10 @@
     "/LocationTransmission/assets/imgs/youps_loader.svg": "348b0f87b74e3e3566345b1431ccd118cb3bddaa",
     "/LocationTransmission/assets/imgs/youpslogo.svg": "d663942273682e147952b7eae3e71a748246bfee",
     "/LocationTransmission/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/LocationTransmission/index.html": "846835ebda3394f7214f09375967b8483c7fe352",
+    "/LocationTransmission/index.html": "35ce0600d7cf9aeab06291b2958fe14a31d92d5f",
     "/LocationTransmission/layers-2x.8f2c4d11474275fbc161.png": "152a162333e46d24f9d89f566312fc0c64011dee",
     "/LocationTransmission/layers.416d91365b44e4b4f477.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
-    "/LocationTransmission/main.52ad5041c25454a9fe23.js": "30d62406746f9b0820ad69845b981c0970dbda3b",
+    "/LocationTransmission/main.91e19c906fc0230ab498.js": "737a4c3a576ec1e57b3f2e7c669c308aacdb7233",
     "/LocationTransmission/manifest.webmanifest": "2cb9395ec5b12ee924ac50b06a3050df79ecc509",
     "/LocationTransmission/marker-icon.2b3e1faf89f94a483539.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
     "/LocationTransmission/polyfills.98e298f0f2b8e2646bce.js": "ba0de278e37510122ae2db8136780b46b4f5de1c",
